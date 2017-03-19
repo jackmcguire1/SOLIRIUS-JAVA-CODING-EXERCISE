@@ -1,5 +1,5 @@
 # SOLIRIUS-JAVA-CODING-EXERCISE
-This is a solution to a coding excercise which i had to complete for a Junior Software Development position.
+This is a solution to a coding exercise which I completed as part of the application process for a Junior Software Development position
 
 ## SOLIRIUS JAVA CODING EXERCISE
 
