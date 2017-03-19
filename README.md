@@ -13,14 +13,13 @@ When you run the program, it should turn each light in the set on for 1 second a
 
 The output of the program should be as follows:
 
-12:00:01: Red Light On
-12:00:02: Red Light Off
-12:00:02: Green Light On
-12:00:03: Green Light Off
-12:00:03: White Light On
-12:00:04: White Light Off
-etc.
-etc.
+* 12:00:01: Red Light On
+* 12:00:02: Red Light Off
+* 12:00:02: Green Light On
+* 12:00:03: Green Light Off
+* 12:00:03: White Light On
+* 12:00:04: White Light Off
+* etc.
 
 The sequence should continue in a loop until the program is interrupted.
 
