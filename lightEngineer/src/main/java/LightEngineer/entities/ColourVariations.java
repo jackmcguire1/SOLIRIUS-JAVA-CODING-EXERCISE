@@ -1,4 +1,6 @@
-package LightEngineer;
+package LightEngineer.entities;
+
+import LightEngineer.entities.Colour;
 
 public interface ColourVariations {
 

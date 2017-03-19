@@ -1,5 +1,6 @@
-package LightEngineer;
+package LightEngineer.IO;
 
+import LightEngineer.UI;
 import com.sun.corba.se.impl.orbutil.concurrent.Mutex;
 
 import java.util.Scanner;

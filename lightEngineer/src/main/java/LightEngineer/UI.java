@@ -1,5 +1,9 @@
 package LightEngineer;
 
+import LightEngineer.IO.Interrupt;
+import LightEngineer.IO.LightSwitch;
+import LightEngineer.entities.Colour;
+import LightEngineer.entities.ColourVariations;
 import com.sun.corba.se.impl.orbutil.concurrent.Mutex;
 
 import java.util.ArrayList;

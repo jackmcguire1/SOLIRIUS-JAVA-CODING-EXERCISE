@@ -1,12 +1,10 @@
-package LightEngineer;
-
-import java.util.ArrayList;
+package LightEngineer.entities;
 
 /**
  * Created by jackm on 07/11/2016.
  */
 
-public class Colour implements ColourVariations{
+public class Colour implements ColourVariations {
 
     private int r;
     private int g;

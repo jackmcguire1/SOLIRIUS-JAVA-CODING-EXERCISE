@@ -1,4 +1,6 @@
-package LightEngineer;
+package LightEngineer.entities;
+
+import LightEngineer.entities.Colour;
 
 /**
  * Created by jackm on 07/11/2016.
